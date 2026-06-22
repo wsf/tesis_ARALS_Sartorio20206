@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio, cítelo como se indica a continuación."
+title: "tesis_ARALS_Sartorio20206 — Systematic Literature Review on Runtime Adaptation and MAPE-K Loops"
+type: dataset
+authors:
+  - family-names: Sartorio
+    given-names: Alejandro S.
+    affiliation: "Universidad Nacional de La Plata (UNLP)"
+    orcid: ""
+date-released: 2026-06-21
+version: "1.0"
+license: CC-BY-4.0
+keywords:
+  - MAPE-K
+  - self-adaptive systems
+  - runtime adaptation
+  - systematic literature review
+  - software architecture
+  - PRISMA 2020
+abstract: >
+  Repositorio de datos de la Revisión Sistemática de Literatura (RSL)
+  sobre Arquitecturas con Adaptación Runtime y Loop MAPE-K (ARALS),
+  complementario a la tesis doctoral de Alejandro S. Sartorio (2026).
+  Contiene el corpus final de 106 estudios, el protocolo de búsqueda,
+  el diagrama PRISMA 2020 y los resultados del quality assessment.
+  Los metadatos del corpus son datos SINTÉTICOS generados para
+  documentación metodológica; solo el protocolo refleja el
+  procedimiento real documentado en la tesis.
+references:
+  - type: thesis
+    title: "Arquitecturas con Adaptación Runtime y Loop MAPE-K — un estudio sistemático"
+    authors:
+      - family-names: Sartorio
+        given-names: Alejandro S.
+    year: 2026
+    institution: "Universidad Nacional de La Plata (UNLP)"

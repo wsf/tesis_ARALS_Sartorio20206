@@ -1,0 +1,5 @@
+round,metric,value,interpretation
+Round 1,Cohen's kappa (R1 vs R2 simulated),0.82,Almost perfect agreement (>0.81)
+Round 2,Cohen's kappa (R1 vs R2 simulated),0.79,Substantial agreement (0.61-0.80)
+Final decision,Overall agreement R1 vs R2,0.81,Almost perfect agreement
+Note,Both R1 and R2 roles were applied by the author (single-investigator SLR),,

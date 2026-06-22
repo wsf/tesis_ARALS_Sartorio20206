@@ -1,0 +1,27 @@
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+*~
+
+# LaTeX artifacts (in case anyone adds .tex here)
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+
+# Python (if scripts are added later)
+__pycache__/
+*.pyc
+.pytest_cache/
